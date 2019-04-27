@@ -1,0 +1,9 @@
+server:
+  port: 8700
+
+coolq:
+  http_url: http://
+  ws_url: ws://
+
+github:
+  secret:
